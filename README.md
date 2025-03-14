@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gagangowdabg
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in Full Stack web Development and Data Science
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
